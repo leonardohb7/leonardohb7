@@ -86,7 +86,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://www.linkedin.com/posts/leonardohenriquebasseti_animado-em-compartilhar-meu-novo-projeto-ugcPost-7368454750977060864-v4-5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXWUbUBYBfr1eAcnCCo1xElLg25ZcmIV7o">O Cofre do Colecionador</a></h3>
       <p>App mobile em FlutterFlow com storytelling forte e documentação completa.</p>
-      <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
     </td>
     <td width="50%" valign="top">
