@@ -2,7 +2,7 @@
 
 <h1>Olá, eu sou o Leonardo 👋</h1>
 
-<p>software engineer in progress · Engenharia de Software & Web Design · FIAP · São Paulo, BR</p>
+<p>Engenharia de Software & Web Design · FIAP · São Paulo, BR</p>
 
 <a href="https://www.linkedin.com/in/leonardohenriquebasseti/" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
