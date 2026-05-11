@@ -1,16 +1,102 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**leonardohb7/leonardohb7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Olá, eu sou o Leonardo 👋</h1>
 
-Here are some ideas to get you started:
+<p>software engineer in progress · Engenharia de Software & Web Design · FIAP · São Paulo, BR</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/leonardohenriquebasseti/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:leobasseti2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+```
+> estudante de Engenharia de Software e Web Design na FIAP
+> construindo projetos web reais — do frontend ao fullstack
+> sempre aprendendo, sempre deployando
+```
+
+---
+
+### 🛠 stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+---
+
+### 📦 projetos em destaque
+
+<p><sub>alguns dos principais projetos que desenvolvi — todos com deploy no ar</sub></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://thecatalystcity.vercel.app">🏆 The Catalyst City</a></h3>
+      <p>Projeto vencedor da Global Solution "Protech the Future" (FIAP). Solução web completa com deploy na Vercel.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/deploy-live-brightgreen?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://buzzteller.vercel.app">Buzz-Teller</a></h3>
+      <p>Projeto final multidisciplinar da FIAP — envolve Cloud, UX/UI, Low Code, RWD e mais.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/deploy-live-brightgreen?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/leonardohb7/mobileflix">mobileflix</a></h3>
+      <p>API REST com FastAPI e templates dinâmicos. Tema dark estilo streaming, com vídeo demo no YouTube.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://tasklistcrud.vercel.app">tasklist · fullstack</a></h3>
+      <p>Projeto fullstack — frontend em HTML/JS deployado na Vercel + backend em Python hospedado no Render.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+      <img src="https://img.shields.io/badge/deploy-live-brightgreen?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://c-p4-low-code-dev-3930zb.flutterflow.app">O Cofre do Colecionador</a></h3>
+      <p>App mobile em FlutterFlow com storytelling forte e documentação completa.</p>
+      <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/deploy-live-brightgreen?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://pets-tailwind.vercel.app">pets-tailwind</a></h3>
+      <p>Primeiro projeto com Tailwind CSS — layout responsivo com deploy na Vercel.</p>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/deploy-live-brightgreen?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <sub>todos os projetos têm deploy no ar · sempre construindo algo novo</sub>
+</div>
