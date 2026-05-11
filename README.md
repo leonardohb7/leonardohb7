@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
@@ -44,7 +45,7 @@
 
 ### 📦 projetos em destaque
 
-<p><sub>alguns dos principais projetos que desenvolvi — todos com deploy no ar</sub></p>
+<p><sub>alguns dos principais projetos que desenvolvi</sub></p>
 
 <table>
   <tr>
@@ -83,10 +84,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://c-p4-low-code-dev-3930zb.flutterflow.app">O Cofre do Colecionador</a></h3>
+      <h3><a href="https://www.linkedin.com/posts/leonardohenriquebasseti_animado-em-compartilhar-meu-novo-projeto-ugcPost-7368454750977060864-v4-5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXWUbUBYBfr1eAcnCCo1xElLg25ZcmIV7o">O Cofre do Colecionador</a></h3>
       <p>App mobile em FlutterFlow com storytelling forte e documentação completa.</p>
       <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/deploy-live-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://pets-tailwind.vercel.app">pets-tailwind</a></h3>
