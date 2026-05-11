@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="mobileflix.onrender.com">mobileflix</a></h3>
+      <h3><a href="https://mobileflix.onrender.com">mobileflix</a></h3>
       <p>API REST com FastAPI e templates dinâmicos. Tema dark estilo streaming, com vídeo demo no YouTube.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
