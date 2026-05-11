@@ -4,11 +4,11 @@
 
 <p>software engineer in progress · Engenharia de Software & Web Design · FIAP · São Paulo, BR</p>
 
-<a href="https://www.linkedin.com/in/leonardohenriquebasseti/">
+<a href="https://www.linkedin.com/in/leonardohenriquebasseti/" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:leobasseti2@gmail.com">
+<a href="mailto:leobasseti2@gmail.com" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
