@@ -58,9 +58,9 @@
     <td width="50%" valign="top">
       <h3><a href="https://buzzteller.vercel.app">Buzz-Teller</a></h3>
       <p>Projeto final multidisciplinar da FIAP — envolve Cloud, UX/UI, Low Code, RWD e mais.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/deploy-live-brightgreen?style=flat-square" />
     </td>
   </tr>
