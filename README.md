@@ -103,6 +103,3 @@
 
 ---
 
-<div align="center">
-  <sub>todos os projetos têm deploy no ar · sempre construindo algo novo</sub>
-</div>
